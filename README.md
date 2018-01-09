@@ -16,7 +16,7 @@
 J'aimerai savoir quels sont les bateaux qui ont pu passer sous le pont lors de ses crues
 
 le script.js est déjà commencé mais je n'arrive pas à le terminer.  
-J'ai un souci avec la ligne de code 20"  
+J'ai un souci avec la ligne de code 20.  
 Un peu d'aide serait la bienvenue !  
 #### Merci
 ###### Charlotte
