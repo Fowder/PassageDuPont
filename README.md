@@ -1,5 +1,4 @@
 # Passage Du Pont
----
 > exercice sur les fonctions javascript
 
 ## Je pose le décor : 
