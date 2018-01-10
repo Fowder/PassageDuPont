@@ -13,10 +13,11 @@
    * 2m en 1990
    * 4.5m en 2017
    
-J'aimerai savoir quels sont les bateaux qui ont pu passer sous le pont lors de ses crues
+J'aimerai savoir quels sont les bateaux qui ont pu passer sous le pont lors de ses crues  
+Un peu d'aide serait la bienvenue !(et moi du coup aussi)  
 
-le script.js est déjà commencé mais je n'arrive pas à le terminer.  
-J'ai un souci avec la ligne de code 20.  
-Un peu d'aide serait la bienvenue !  
+Bon Alexis m'a fait virer mon début de code js pour qu'on le fasse de zéro  !!  
+Il est interdit de me blâmer ;-)
+
 #### Merci
 ###### Charlotte
