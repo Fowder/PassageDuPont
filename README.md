@@ -14,9 +14,9 @@
    * 4.5m en 2017
    
 J'aimerai savoir quels sont les bateaux qui ont pu passer sous le pont lors de ces crues  
-Un peu d'aide serait la bienvenue !(et moi du coup aussi)  
+Un peu d'aide serait la bienvenue!    
 
-Bon Alexis m'a fait virer mon début de code js pour qu'on le fasse de zéro  !!  
+Bon Alexis m'a fait virer mon début de code js pour qu'on le fasse de zéro (et moi du coup aussi)!!  
 Il est interdit de me blâmer ;-)
 
 #### Merci
